@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">arias_pablo_examen2t</string>
+    <string name="enuncSub">Seleccione uno de los subgeneros</string>
+    <string name="hintArtista">Banda o artista</string>
+    <string name="hintAlbum">Inserte un álbum</string>
+    <string name="bibliomusica">BiblioMúsica</string>
+    <string name="radRB">Rhythm and Blues</string>
+    <string name="radElectro">Electrónica</string>
+    <string name="anadir">Añadir</string>
+    <string name="buscar">Buscar</string>
+    <string name="genero">Género</string>
+</resources>
